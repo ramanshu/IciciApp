@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IciciMobi</string>
+    <string name="hello">Hello</string>
+    <string name="header_text">ICICI Bank</string>
+    <string name="testHelpText">String with optional Simple formatiing, can be stored and retrieved  as resources. YOu can add formatting to your string by using three standdard HTML tags: b,i,u</string>
+    <string name="temp_text">Final Page !</string>
+
+</resources>

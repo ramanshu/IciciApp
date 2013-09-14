@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="headerFontsize">60px</dimen>
+    <dimen name="tile_width">90px</dimen>
+    <dimen name="tile_height">90px</dimen>
+    <dimen name="tile_margin">20px</dimen>
+    <dimen name="sidebarMargin">3px</dimen>
+    <dimen name="sidebarWidth">110px</dimen>
+    <dimen name="helpTextSize">30px</dimen>
+    <dimen name="mastHeight">50px</dimen>
+    <dimen name="taskButtonHeight">50px</dimen>
+    <dimen name="sidePadding">10px</dimen>
+    <dimen name="buttonHeight">200px</dimen>
+    <dimen name="buttonMargin">5px</dimen>
+    <dimen name="buttonPadding">5px</dimen>
+    <dimen name="paneHolderHeight">480px</dimen>
+    <dimen name="paneHolderSideMargin">5px</dimen>
+    <dimen name="paneImageMargin">15px</dimen>
+    <dimen name="paneHelpSideMargin">5px</dimen>
+    <dimen name="paneHelpVerticalMargin">15px</dimen>
+    <dimen name="paneHelpButtonHeight">50px</dimen>
+    <dimen name="paneHelpButtonMargin">5px</dimen>
+    <dimen name="paneHelpButtonImageMargin">5px</dimen>
+    <dimen name="paneHelpButtonTextMargin">5px</dimen>
+    
+</resources>

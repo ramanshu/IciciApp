@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="iciciYellow">#FFE8A7</color>
+    <color name="iciciLightYellow">#FFFF99</color>
+    <color name="iciciOrange">#D45D1D</color>
+    <color name="white">#FFFFFF</color>
+    <color name="iciciDarkOrange">#A7212A</color>
+    
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<screens>
+		<screen id="root" />
+			<option id="Hello1" screenid="Screen2" />
+			<option id="Hello2" screenid="Screen2"/>
+			<option id="Hello3" screenid="Screen2"/>
+		<screen id="Screen2" />
+	</screens>
+	

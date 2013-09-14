@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.icici.mobi.view.ScreenOptionContainer  		
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    	xmlns:tools="http://schemas.android.com/tools"
+    	xmlns:custom="http://schemas.android.com/apk/lib/com.icici.mobi.view.SlidingOptionButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:orientation="vertical" >
+<LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+	    android:weightSum="3"
+        android:gravity="left"
+        android:orientation="horizontal" >
+
+        <com.icici.mobi.view.ScreenOptionButton
+            android:id="@+id/targetButton1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+	        android:layout_weight="1"
+            android:padding="5px"
+            custom:titleText="Background color"
+            custom:valueColor="@android:color/holo_green_light" />
+
+        <com.icici.mobi.view.ScreenOptionButton
+            android:id="@+id/targetButton2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="5px"
+	        android:layout_weight="1"
+            custom:titleText="Background color"
+            custom:valueColor="@android:color/holo_green_light" />
+
+        <com.icici.mobi.view.ScreenOptionButton
+            android:id="@+id/targetButton3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+	        android:layout_weight="1"
+            android:padding="5px"
+            custom:titleText="Background color"
+            custom:valueColor="@android:color/holo_green_light" />
+    </LinearLayout>
+
+     <LinearLayout
+        android:id="@+id/dropZone"
+        android:layout_width="fill_parent"
+        android:layout_height="70px"
+        android:orientation="vertical"
+        android:background="@drawable/app_pg"
+        ></LinearLayout>
+    
+</com.icici.mobi.view.ScreenOptionContainer> 

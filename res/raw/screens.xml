@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<screens>
+		<screen id="root" />
+		<screen id="Screen2" />
+		<screen id="Screen3" />
+		<screen id="Screen4" />
+		<screen id="Screen5" />
+		<screen id="Screen6" />
+		<screen id="Screen7" />
+		<screen id="Screen8" />
+		<screen id="Screen9" />
+		<screen id="Screen10" />
+		<screen id="Screen11" />
+		<screen id="Screen12" />
+	</screens>

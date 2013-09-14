@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent" 
+    android:layout_weight="1"
+    android:background="@drawable/blue_bg">
+
+    <!-- Menu Panel -->
+	<include layout="@layout/slideoutmenu"/>
+     <!-- Sliding Panel -->     
+	<include layout="@layout/mainscreen"/>
+</FrameLayout>
+
